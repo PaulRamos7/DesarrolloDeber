@@ -6,10 +6,23 @@
 
 package hola;
 
+import java.util.Scanner;
+
 /**
  *
  * @author USUARIO
  */
 public class Contreras {
-    
-}
+     public static void main(String[] args) {
+         int a,b,s;
+        
+        Scanner entrada=new Scanner(System.in);
+        System.out.println("ingrese un numero");
+        a= Integer.valueOf(entrada.nextLine());
+        System.out.println("ingrese un numero");
+        b= Integer.valueOf(entrada.nextLine());
+        s=a+b;
+        System.out.println("la suma es " + s);
+     }
+     }
+
