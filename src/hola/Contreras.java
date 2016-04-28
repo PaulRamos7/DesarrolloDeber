@@ -14,6 +14,7 @@ import java.util.Scanner;
  */
 public class Contreras {
      public static void main(String[] args) {
+         System.out.println("HOLA MUNDO :D :D");
          int a,b,s;
         
         Scanner entrada=new Scanner(System.in);
