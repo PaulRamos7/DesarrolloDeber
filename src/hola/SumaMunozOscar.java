@@ -9,6 +9,6 @@ package hola;
  *
  * @author Gabo
  */
-public class SumaMuniozOscar {
+public class SumaMunozOscar {
     
 }
