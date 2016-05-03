@@ -46,5 +46,6 @@ public class Triangulo{
         System.out.printf("%5s%-10f%10.2e%15.2e%10.2e\n\n","",calculo1,calculo2,calculo3,calculo4);
         calculo5 = Math.random()*10+50;
         System.out.println(calculo5);
+         //System.out.println("Hola  Paul Ramos");
     }
 }
