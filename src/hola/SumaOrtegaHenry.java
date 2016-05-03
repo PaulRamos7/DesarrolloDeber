@@ -10,5 +10,5 @@ package hola;
  * @author DELL
  */
 public class SumaOrtegaHenry {
-    //sout
+    
 }
