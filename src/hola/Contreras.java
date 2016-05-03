@@ -24,7 +24,7 @@ public class Contreras {
         b= Integer.valueOf(entrada.nextLine());
         s=a+b;
         System.out.println("la suma es " + s);
-        //System.out.println("Hola  Paul Ramos");
+        //System.out.println("Hola  att Paul Ramos");
      }
      }
 
