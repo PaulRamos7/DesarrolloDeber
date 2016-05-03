@@ -27,8 +27,8 @@ for(int i=1;i<5;i++)
 
 x=i*2;//aqui X toma el valor del actual valor de i, multiplicado por 2
 
-System.out.println("Numero par:"+x);
-
+System.out.println("El Numero par:"+x);
+    System.out.println("Modificado por Henry Ortega");
 }
 
  
