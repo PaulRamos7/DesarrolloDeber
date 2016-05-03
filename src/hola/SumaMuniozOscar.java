@@ -9,14 +9,12 @@ package hola;
  *
  * @author Gabo
  */
-public class MuniozOs {
-    
-    
- public static void main(String[] args) {
-        System.out.println(" :D ");
-        System.out.println(" :/ ");
-         //System.out.println("Hola  att Paul Ramos");
-     
- }
+public class SumaMuniozOscar {
+      public static void main(String[] args) {
+        System.out.println("MODIFICADO POR JESSICA CONTRERAS");
+        
+        
+        
+        //System.out.println("Hola  att Paul Ramos");
+    }
 }
-
